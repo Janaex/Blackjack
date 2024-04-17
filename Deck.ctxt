@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Deck
+comment0.text=\n\ Write\ a\ description\ of\ class\ Deck\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=numOfDecks
+comment1.target=Deck(int)
+comment10.params=
+comment10.target=void\ act()
+comment10.text=\n\ Act\ -\ do\ whatever\ the\ Deck\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ shuffle()
+comment3.params=
+comment3.target=void\ grow()
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment5.params=aCard
+comment5.target=boolean\ remove(Card)
+comment5.text=\n\ Removes\ the\ first\ occurrence\ of\ aCard\ from\ the\ deck.\ \ This\ method\n\ will\ find\ the\ first\ occurrence\ of\ a\ card\ that\ has\ the\ same\ suit\ and\n\ rank\ as\ aCard\ and\ remove\ it\ from\ the\ deck.\n\ \n\ @param\ aCard\ an\ instance\ of\ a\ Card\ to\ be\ removed\ from\ the\ deck.\n
+comment6.params=aCard
+comment6.target=void\ add(Card)
+comment7.params=isFaceUp
+comment7.target=Card\ deal(boolean)
+comment8.params=deck\ numOfCardsToDeal\ isFaceUp
+comment8.target=void\ deal(Deck[],\ int,\ boolean)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=11
